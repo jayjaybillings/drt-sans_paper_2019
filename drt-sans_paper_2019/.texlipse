@@ -1,0 +1,14 @@
+#TeXlipse project settings
+#Thu Oct 03 12:27:43 EDT 2019
+markTmpDer=true
+builderNum=2
+outputDir=bin
+makeIndSty=
+bibrefDir=
+outputFormat=pdf
+tempDir=tmp
+mainTexFile=main.tex
+outputFile=drt-sans_paper_2019.pdf
+langSpell=en
+markDer=true
+srcDir=src
